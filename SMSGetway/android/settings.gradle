@@ -1,0 +1,3 @@
+rootProject.name = 'SMSGetway'
+
+include ':app'
